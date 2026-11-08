@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-07T10:22:52.568062+00:00",
+  "generated_utc": "2026-11-08T10:31:27.065176+00:00",
   "sources": [
     {
       "id": "normal",
@@ -10,8 +10,8 @@
         "family"
       ],
       "minimum": 50000,
-      "domains": 200230,
-      "sha256": "18856f085e6fde58126265a93a1a219d25648ede61f1f5e757ec4826b3630d53",
+      "domains": 206744,
+      "sha256": "ec7cce2e1412c161cd9c826cb1a8dd755c2d70158e2ab9f954c94217404b9b82",
       "rejected_rules": 0
     },
     {
@@ -23,8 +23,8 @@
         "family"
       ],
       "minimum": 10000,
-      "domains": 189700,
-      "sha256": "d30f1c96e80079980130b845d94aab551119b2b939a6b6c91a7e6890793dd0bf",
+      "domains": 188782,
+      "sha256": "fef24fc32d6875421f432c0743e3ab6338142196da3beb927f6a53226f385cd8",
       "rejected_rules": 0
     },
     {
@@ -35,27 +35,27 @@
         "family"
       ],
       "minimum": 1000,
-      "domains": 77921,
-      "sha256": "22060f6cdbd713a7fb1754edacbfde7573ff1410c8a6e96b67b4853aa394356e",
+      "domains": 78410,
+      "sha256": "b53eb092d5da3e8f8775290c80946bb5401368e9729c9dd1c773762672bf61c0",
       "rejected_rules": 0
     }
   ],
   "profiles": {
     "standard": {
-      "domains": 326343,
+      "domains": 327872,
       "suppressed_by_allowlist": []
     },
     "family": {
-      "domains": 404142,
+      "domains": 406126,
       "suppressed_by_allowlist": []
     }
   },
   "outputs": {
-    "blocklists/standard.txt": "c091ee36199d4f8b0ab118964106ae637e2762c1ea33a93236b8db8fc028e76a",
-    "blocklists/standard-domains.txt": "372d0e48c00d1a7a69b14c1c131a6cd69cd7c1c08340082eb6217f1d4e38fd48",
-    "blocklists/standard-hosts.txt": "b0b8ffec03da0b6d2d76c037074cd452a91cfb55f98647f9fde270d086d1c89d",
-    "blocklists/family.txt": "f59111b3f9bc291e3df7ba3af57d3f5ee1f88c40c15c1df87b8720ccb3331d1e",
-    "blocklists/family-domains.txt": "f87a7c19b228cd8e96c68fdcbd97b569bd0f8e25a174d9a71cbac2e78c306c93",
-    "blocklists/family-hosts.txt": "a355e9a3b9253e85f650db8336256fbf9d92147a72218334433d3f64e8fd8dd8"
+    "blocklists/standard.txt": "f415ebd2ba63f9c42c9fe4b7c33865982ff86be96d8428c4fca8b85da27da006",
+    "blocklists/standard-domains.txt": "8f1355f2ffa485f644f22ab649fccbffe34e8f28b188b560efb789cdb798ded4",
+    "blocklists/standard-hosts.txt": "b2865d451ff64cd1626f7abda6c72c84cb9bceec36e6538e12e03aab5bc77189",
+    "blocklists/family.txt": "a83ba79e69bd60915cb9cc145daf890d1cde122d795e15c030d556cd57227063",
+    "blocklists/family-domains.txt": "0dd5d266d58a0b7b775961dcf5c79429356e1eb38417f0c581ea6159ecab363f",
+    "blocklists/family-hosts.txt": "122faa3743a6a99b4af43e1659b38e8b2eac263623a8b4015e305a4c7bd927b0"
   }
 }
